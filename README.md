@@ -55,4 +55,4 @@ This repository contains my solution for the Praxis N2 (HPXN200-1) Formative Ass
 - **Tools**: Cisco IOS, FortiGate, Observium/PRTG
 
 ## Contact
-For questions or feedback, contact me at [your email] or connect on LinkedIn at [your LinkedIn profile]
+For questions or feedback, contact me at Phangi38@outlook.com or connect on LinkedIn at www.linkedin.com/in/phangasasa-muhlaba-6826012b4
