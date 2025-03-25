@@ -11,7 +11,7 @@ This repository contains my solution for the Praxis N2 (HPXN200-1) Formative Ass
 - **Hardware Selection**: Cisco Catalyst 9300 switches with PoE+ support
 - **Redundancy**: Dual WAN links with HSRP failover
 
-![Network Topology Diagram (Star Topology)](https://github.com/user-attachments/assets/08e2d3ba-e4c6-4760-8d9f-643a028121e1)
+![Untitled Diagram - draw io 2025_03_07 17_55_47](https://github.com/user-attachments/assets/f6b84603-9e52-4721-b79e-8b33fb0a4ce1)
 
 
 ### Question 2: Structured Cabling Plan
